@@ -9,4 +9,3 @@ if image is not None:
     cv2.imwrite('cropped_image.png', cropped_image)
 else:
     print("Error: Could not load image.")
-
