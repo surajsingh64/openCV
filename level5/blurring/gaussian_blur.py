@@ -7,4 +7,4 @@ if image is not None:
     cv2.imshow('Gaussian Blurred Image', blurred_image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-    cv2.imwrite('gaussian_blurred_image.png', blurred_image)
+    cv2.imwrite('gaussian_blurred_image.png', blurred_image) 
