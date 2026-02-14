@@ -1,0 +1,79 @@
+[33mcommit ce92bfd51a3a1f27eaf292852ab5fd9292a24139[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Sat Feb 14 22:22:32 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Sat Feb 14 22:22:32 2026 +0530
+
+    Add commits
+
+[33mcommit 69160190264415554e8246a1937a256047122d18[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Sun Feb 1 17:57:32 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Sun Feb 1 17:57:32 2026 +0530
+
+    Update level5 files
+
+[33mcommit de3d495883e6f81c066f8da0b1d85b5e037ef1ef[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Sat Jan 31 22:27:44 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Sat Jan 31 22:27:44 2026 +0530
+
+    Add level4 (video saving) and level5 (blurring techniques)
+
+[33mcommit 47855383f5190ccc29ee27134ddbc3f9a4bd84ea[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Fri Jan 30 17:36:25 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Fri Jan 30 17:36:25 2026 +0530
+
+    Add loop for multiple shapes and correct code formatting
+
+[33mcommit 7ec88b2d0a74bd8ee93b6098086fd89e3394c0b4[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Thu Jan 29 22:32:03 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Thu Jan 29 22:32:03 2026 +0530
+
+    Remove root files; keep level1 and level2 content
+
+[33mcommit 83afb4bd3a0516aa96e058ac7224c3ce8721840f[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Thu Jan 29 22:31:02 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Thu Jan 29 22:31:02 2026 +0530
+
+    Remove root files; keep level1 and level2 content
+
+[33mcommit 43843ff9080fd22f6203a52bf055ede0ad2710f4[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Thu Jan 29 22:26:33 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Thu Jan 29 22:26:33 2026 +0530
+
+    Add level2 files
+
+[33mcommit 53c2380ffb9d474be8850015fc309e62dedafe54[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Thu Jan 29 22:24:41 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Thu Jan 29 22:24:41 2026 +0530
+
+    Add level2/rotating.py
+
+[33mcommit 01e249f2371e3fc423f5fb356fe7995181a99008[m
+Author:     Suraj Singh <suraj@example.com>
+AuthorDate: Wed Jan 28 16:46:44 2026 +0530
+Commit:     Suraj Singh <suraj@example.com>
+CommitDate: Wed Jan 28 16:48:55 2026 +0530
+
+    commit
+
+[33mcommit 6d69cc23268224ebfab786618a18f17ea304bbe3[m
+Author:     Suraj Singh <suraj.singh@example.com>
+AuthorDate: Wed Jan 28 16:31:29 2026 +0530
+Commit:     Suraj Singh <suraj.singh@example.com>
+CommitDate: Wed Jan 28 16:31:29 2026 +0530
+
+    Add OpenCV practical files with images
